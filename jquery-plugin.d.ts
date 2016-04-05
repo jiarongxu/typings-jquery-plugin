@@ -1,7 +1,7 @@
 /// <reference path="../jquery/jquery.d.ts" />
 
 interface JQuery{
-    typed(options: Object): JQuery
+    typed(options: any): JQuery
 }
 
 interface WaypointStatic{
